@@ -1,0 +1,396 @@
+
+
+@media (max-width: 767.98px) {
+	#imageone{
+	
+	background-color:white;
+ 
+}
+	img {
+	width:300px;
+	height:350px;
+ 	fit:contain;
+	
+	padding-top:60px;
+	margin: auto;
+  display: block;
+}
+.container-fluid{
+			
+	float:left;
+	
+	background-color:white;
+	border:2px solid whitesmoke;
+}
+ #title{
+    width:100vw;
+	 height:20vh;
+/*     border: 1px solid grey; */
+/*    margin: left;  */
+     margin-top: 50px;
+    padding-top: 50px; 
+	 
+	margin-left:-25rem;
+/* 	margin-right:-10rem; */
+	padding-left:0px;
+	border-top:10px solid white;
+	 
+	
+
+}
+h1{
+    text-align: center;
+    color: white;
+}
+#factsheet{
+	height:450px;
+	background-color:rgba(70, 70, 71, 1);
+	margin-right:10px;
+	color:white;
+	
+}
+
+#second_column{
+	margin-left:12px;
+}
+#secondcontainer{
+	margin-left:20px;
+}
+
+#paymentplan{
+	background-color:rgb(0,166,147);
+	margin-left:15px;
+	height:450px;
+}
+#icon{
+	
+	
+	margin-right:5px;
+	margin-left:3px;
+	margin-top:5px;
+}
+	
+ }
+
+
+
+
+@media screen and (min-width: 768px) {
+#factsheet{
+	height:400px;
+	background-color:rgba(70, 70, 71, 1);
+	margin-right:10px;
+	color:white;
+	
+}
+#paymentplan{
+	background-color:rgb(0,166,147);
+	margin-left:15px;
+}
+#icon{
+	
+	
+	margin-right:5px;
+	margin-left:3px;
+	margin-top:5px;
+}
+.container-fluid{
+	float:left;
+	margin-right:20px;
+	background-color:white;
+	border:2px solid whitesmoke;
+}
+    img {
+      width:380px;
+	height:600px;
+ 	fit:fill;
+    }
+#firstcontainer{
+    
+    border-top: 2px solid black;
+	 border-right: 2px solid black;
+/*    margin: left;  */
+/*      margin-top: 50px;  */
+     background-color: white;
+/* 	margin-left:-5rem; */
+	margin-right:2px;
+	padding-left:0px;
+/* 	border-top:10px solid whitesmoke; */
+	 
+	
+
+} 
+ #title{
+    width:100vw;
+	 height:20vh;
+/*     border: 1px solid grey; */
+/*    margin: left;  */
+     margin-top: 50px;
+    padding-top: 50px; 
+	 
+	margin-left:-25rem;
+/* 	margin-right:-10rem; */
+	padding-left:0px;
+	border-top:10px solid white;
+	 
+	
+
+}
+h1{
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+#imageone{
+      
+/*       margin: 10px ; */
+      margin-left: 1rem;
+	margin-top:1rem;
+/* 	margin-bottom:400px; */
+     
+      text-align: center;
+      font-size: 2rem;
+      font-weight: 800;
+      background-color: white;
+  }
+#second_column{
+      
+      margin: 10px ;
+       margin-left: 50px; 
+/* 	margin-bottom:400px; */
+	margin-right: 0rem;
+	padding-left:60px;
+	
+/* 	overflow: hidden;
+    text-overflow: ellipsis;
+	-webkit-line-clamp: 3;
+    -webkit-box-orient: vertical; */
+/*       background-color: white; */
+	float:right;
+  }
+#seondcontainer{
+	margin-right:-5rem;
+}
+#float{
+	float:left;
+}
+}
+
+
+@media screen and (min-width: 992px) {
+#factsheet{
+	height:400px;
+	background-color:rgba(70, 70, 71, 1);
+	margin-right:10px;
+	color:white;
+	
+}
+#paymentplan{
+	background-color:rgb(0,166,147);
+	margin-left:15px;
+}
+#icon{
+	
+	
+	margin-right:5px;
+	margin-left:3px;
+	margin-top:5px;
+}
+.container-fluid{
+	float:left;
+	margin-right:20px;
+	background-color:white;
+	border:2px solid whitesmoke;
+}
+    img {
+      width: 600px;
+	height: 600px;
+fit:fill;
+    }
+#firstcontainer{
+    
+    border-top: 2px solid black;
+	 border-right: 2px solid black;
+/*    margin: left;  */
+/*      margin-top: 50px;  */
+     background-color: white;
+/* 	margin-left:-5rem; */
+	margin-right:2px;
+	padding-left:0px;
+/* 	border-top:10px solid whitesmoke; */
+	 
+	
+
+} 
+ #title{
+    width:100vw;
+	 height:20vh;
+/*     border: 1px solid grey; */
+/*    margin: left;  */
+     margin-top: 50px;
+    padding-top: 50px; 
+	 
+	margin-left:-25rem;
+/* 	margin-right:-10rem; */
+	padding-left:0px;
+	border-top:10px solid white;
+	 
+	
+
+}
+h1{
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+#imageone{
+      
+/*       margin: 10px ; */
+      margin-left: 1rem;
+	margin-top:1rem;
+/* 	margin-bottom:400px; */
+     
+      text-align: center;
+      font-size: 2rem;
+      font-weight: 800;
+      background-color: white;
+  }
+#second_column{
+      
+      margin: 10px ;
+     margin-left: 50px; 
+/* 	margin-bottom:400px; */
+	margin-right: 0rem;
+	padding-left:60px;
+	
+/* 	overflow: hidden;
+    text-overflow: ellipsis;
+	-webkit-line-clamp: 3;
+    -webkit-box-orient: vertical; */
+/*       background-color: white; */
+	float:right;
+  }
+#seondcontainer{
+	margin-right:-5rem;
+}
+#float{
+	float:left;
+}
+}
+
+
+@media screen and (min-width: 1281px) {
+#factsheet{
+	height:400px;
+	background-color:rgba(70, 70, 71, 1);
+	margin-right:10px;
+	color:white;
+	
+}
+#paymentplan{
+	background-color:rgb(0,166,147);
+	margin-left:15px;
+}
+#icon{
+	
+	
+	margin-right:5px;
+	margin-left:3px;
+	margin-top:5px;
+}
+.container-fluid{
+	float:left;
+	margin-right:20px;
+	background-color:white;
+	border:2px solid whitesmoke;
+}
+    img {
+      width: 600px;
+	height: 600px;
+fit:fill;
+    }
+#firstcontainer{
+    
+    border-top: 2px solid black;
+	 border-right: 2px solid black;
+/*    margin: left;  */
+/*      margin-top: 50px;  */
+     background-color: white;
+/* 	margin-left:-5rem; */
+	margin-right:2px;
+	padding-left:0px;
+/* 	border-top:10px solid whitesmoke; */
+	 
+	
+
+} 
+ #title{
+    width:100vw;
+	 height:20vh;
+/*     border: 1px solid grey; */
+/*    margin: left;  */
+     margin-top: 50px;
+    padding-top: 50px; 
+	 
+	margin-left:-25rem;
+/* 	margin-right:-10rem; */
+	padding-left:0px;
+	border-top:10px solid white;
+	 
+	
+
+}
+h1{
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+#imageone{
+      
+/*       margin: 10px ; */
+      margin-left: 1rem;
+	margin-top:1rem;
+/* 	margin-bottom:400px; */
+     
+      text-align: center;
+      font-size: 2rem;
+      font-weight: 800;
+      background-color: white;
+  }
+#second_column{
+      
+      margin: 10px ;
+/*       margin-left: 150px; */
+/* 	margin-bottom:400px; */
+	margin-right: 0rem;
+	padding-left:40px;
+	border:2px solid white;
+/* 	overflow: hidden;
+    text-overflow: ellipsis;
+	-webkit-line-clamp: 3;
+    -webkit-box-orient: vertical; */
+/*       background-color: white; */
+	float:right;
+  }
+#seondcontainer{
+	margin-right:-5rem;
+}
+#float{
+	float:left;
+}
+}
+
+
+
